@@ -1,2 +1,1 @@
-hello 
-cout<<"hello";
+#include<iostream>
